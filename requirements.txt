@@ -1,0 +1,5 @@
+prettytable>=3.0
+pillow>=9.0
+requests>=2.28
+beautifulsoup4>=4.11
+nltk>=3.8   # optional: only for web_recon.py --nlp
